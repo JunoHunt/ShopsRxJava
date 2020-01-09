@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopsRxJava</string>
+    <string name="task_one">Задание 1</string>
+    <string name="task_two">Задание 2</string>
+    <string name="task_three">Задание 3</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
